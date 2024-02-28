@@ -1,7 +1,7 @@
 """"
 Names:- AbdoulNour Ismail, Zayed shatat ,Sama nimer
 
-GitHub:-
+GitHub:- https://github.com/Abdoulnour/Group3-Activity2.git
 """
 
 "How to change the currency to other currency(AED,ERU,GBP,USD)"
